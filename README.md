@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Physics
 - 🌱 I’m currently learning Go and Rust
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 How to reach me sicelamandla@zulzi.com
+- 📫 How to reach me sicelamandla@zulzi.com / +27 68 282 8301
 - 😄 Pronouns: he.him.his
 - ⚡ Fun fact: I have interest in blending Mathematics and Music
 
